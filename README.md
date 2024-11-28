@@ -67,7 +67,7 @@ Want to vibe with **Area-25**? We don’t hire followers—only those who thrive
 
 ---
 
-**Built by Area-25. Break rules. Build wonders. Ship fast**  
+**Built by Area-25. Break rules. Build wonders. Ship fast.**  
 
 ---
 
