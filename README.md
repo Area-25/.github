@@ -1,7 +1,3 @@
-### **README for Area-25**
-
----
-
 # **Area-25** 🛡️⚡  
 **Welcome to Area-25, where limits are shattered, and ideas ignite into action.**  
 We don’t just build—**we weaponize innovation**.
@@ -11,7 +7,7 @@ We don’t just build—**we weaponize innovation**.
 ## **What is Area-25?**
 Area-25 is a **black-ops lab for relentless creators**.  
 Here, the only rule is:  
-**Build in < 4 hours or archive it forever.**  
+**Build in < 8 hours or archive it forever.**  
 
 It’s not about perfection—it’s about raw power, speed, and execution. Each project is designed to:  
 1. **Defy boundaries** of what's possible.  
@@ -48,7 +44,7 @@ We’re the speedboat outrunning the cruise ships. **Area-25 thrives where other
 
 ## **Our Projects**
 Here’s a taste of what’s brewing in Area-25:  
-- **ScrapeMaster3000**: A dataset generator that turns websites into LLM-ready gold.  
+- **WebRover**: A dataset generator that turns websites into LLM-ready gold. Built in 1 hour  
 - [More Redacted for Impact] 😏  
 
 ---
