@@ -68,7 +68,3 @@ Want to vibe with **Area-25**? We don’t hire followers—only those who thrive
 ---
 
 **Built by Area-25. Break rules. Build wonders. Ship fast.**  
-
----
-
-How’s that for **sexy and unapologetic**? If you want more edge or tweaks, hit me up!
